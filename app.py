@@ -1,1 +1,2 @@
-Print("Hellow world")
+print("Hellow world")
+print(2+5)
